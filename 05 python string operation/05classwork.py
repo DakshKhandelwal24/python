@@ -18,3 +18,15 @@ print(full_name)
 print(a[0:5:2])
 print(a[ : :-1])
 print(a[0:7])
+# new day new learning
+a="daksh"
+b=a[:2]+"r"+a[3:]
+print(b)
+message="PYTHON PROGRAMMING"
+print(message.lower())
+print(message.casefold ())
+msg="hello world"
+print(msg.upper())
+text= "hello python"
+print(text.find("java"))
+
