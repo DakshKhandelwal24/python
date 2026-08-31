@@ -29,4 +29,9 @@ msg="hello world"
 print(msg.upper())
 text= "hello python"
 print(text.find("java"))
-
+message = "Hello Python"
+print("Python" in message)
+print("java" not in message)
+print("java" in message)
+print(text.find("Hello"))
+print(message.find("Hello"))
