@@ -35,3 +35,12 @@ print("java" not in message)
 print("java" in message)
 print(text.find("Hello"))
 print(message.find("Hello"))
+text = "apple apple apple"
+
+print(text.replace("apple", "mango", 2))
+text= "i love food"
+new_text= text.replace("food","computer")
+print(new_text,text)
+print("Hello\nWorld")
+print("He said \"Hello\"")
+print ("welcome to this \'world\'")
