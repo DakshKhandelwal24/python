@@ -153,3 +153,68 @@ print(a.find("Python"))
 print(a.find("programming"))
 print(a.find("language"))
 print(a.find("java"))
+
+# question 22
+a="Python is a programming language"
+print(a.index("Python"))
+print(a.index("programming"))
+print(a.index("language"))
+# print(a.index("java"))
+
+# task 23
+x="banana"
+print("Count: ",x.count("a"))
+print(x.count("n"))
+print(x.count("b"))
+
+# task 24
+filename = "student_notes.pdf"
+print(filename.startswith("student"))
+print(filename.endswith(".pdf"))
+print(filename.endswith(".txt"))
+
+# task 25
+text = "I am learning Java"
+new_text = text.replace("Java","python")
+print(new_text)
+
+# task 26
+text = "apple apple apple"
+print(text.replace("apple","mango"))
+
+# task 27
+text = "apple apple apple"
+print(text.replace("apple","mango", 1))
+
+# task 28
+text = "Python"
+print(text.upper())
+
+# task 29
+text = "   Python Programming   "
+print(text.lstrip())
+print(text.strip())
+print(text.rstrip())
+
+# task 30
+text = "Python is easy to learn"
+
+words = text.split()
+
+print(words)
+
+# task 31
+text ="Python is easy to learn"
+print(text.split(","))
+
+# task 32
+words = ["Python", "is", "easy"]
+print(" ".join(words))
+
+# task 34
+b="Python-is-easy"
+a="Python/is/easy"
+print("".join(a))
+print("". join(b))
+
+# task 35
