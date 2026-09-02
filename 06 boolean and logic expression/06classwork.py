@@ -17,4 +17,11 @@ print("AB">"DD")
 # in or gate only false false is False
 # priority not then and then or 
 # empty string none and 0 means false 
-
+age = 20
+print(not age < 18)
+print(True and True)
+print(True and False)
+print(False and False)
+print(True or True)
+print(False or True)
+print(False or False)
