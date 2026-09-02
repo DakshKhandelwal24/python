@@ -7,3 +7,14 @@ print(8<5)
 print(5!=9)
 print(5<=5)
 print(99>=44)
+print("aa">"bb")
+print("AB">"DD")
+# value a= 97
+# value of A = 65
+# this all are ascii value
+# ==,!=,>,<,
+# in and gate only true true gives true
+# in or gate only false false is False
+# priority not then and then or 
+# empty string none and 0 means false 
+
