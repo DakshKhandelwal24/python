@@ -1,5 +1,3 @@
-# Entre=True
-
 # if Entre :
 #     print("Hey there!!")
 # Result=12

@@ -9,3 +9,5 @@ date=input("entre the date")
 month= 12
 year=2026
 print(date ,"\n", month ,"\n" ,year ,"\n")
+# Entre=True
+
