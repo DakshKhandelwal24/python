@@ -124,15 +124,7 @@
 # else :
 #     print("not eligible")
 #question 29
-# student=bool(input("entre true or false":))
-# if student==True:
-#     has_id=bool(input("entre that you haveid or not":))
-#     if has_id==True:
-#         has_ticket=bool(input("entre that you have ticket in true or false":))
-#         if has_ticket==True:
-#             print("allowed")
-# else:
-#     print("not allowed")
+
 
 # question 28
 # number=int(input("entre the number"))
@@ -164,4 +156,6 @@
 #     number=int(input("entre second number"))
 # if number>10:
 #         print("both number are greater than 10")
-
+# question 21
+age=int(input("entre your age"))
+marks=int(input())
