@@ -125,7 +125,6 @@
 #     print("not eligible")
 #question 29
 
-
 # question 28
 # number=int(input("entre the number"))
 # if number>=10 and number<=50:
@@ -156,6 +155,6 @@
 #     number=int(input("entre second number"))
 # if number>10:
 #         print("both number are greater than 10")
-# question 21
-age=int(input("entre your age"))
-marks=int(input())
+# # question 21
+# age=int(input("entre your age"))
+# marks=int(input())
