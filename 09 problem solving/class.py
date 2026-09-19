@@ -13,11 +13,10 @@
 
 
 
-# q 2
-number=int(input("entre any integer"))
-if number%2==0 and number>0:
-    print("Positive even")
-
+# # q 2
+# number=int(input("entre any integer"))
+# if number%2==0 and number>0:
+#     print("Positive even")
 
 
 
