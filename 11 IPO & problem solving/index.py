@@ -2,27 +2,27 @@
 
 # # IPO Model 
 
-# # INPUT
-# # Read first number
-# # Read second number
+# INPUT
+# Read 1 number
+# Read 2 number
 
-# # PROCESSING
-# # Add first and second number
+# PROCESSING
+# # Add 1 and 2 number
 
 # # OUTPUT
-# # Sum 
+# # Sum of 2 number
 
 # # Algorithm 
 # # 1. Start 
-# # 2. Read first number
-# # 3. Read second number
+# # 2. Read firdt number
+# # 3. Read 2 number
 # # 4. Add both numbers
 # # 5. Display their sum
 # # 6. Stop 
 
 # # Python Solution
-# number_1 = int(input("Enter first number: "))
-# number_2 = int(input("Enter second number: "))
+# number_1 = int(input("Enter 1 number "))
+# number_2 = int(input("Enter 2 number "))
 
 # sum = number_1 + number_2
 
@@ -30,9 +30,9 @@
 
 # # #Problem 2
 
-# # #IPO Model
-# # INPUT 
-# # Read a number 
+# #IPO Model
+ # INPUT 
+ # Read a number 
 
 # # PROCESSING
 # # If number is divisible by 2 - Even 
@@ -64,13 +64,13 @@
 # # IPO Model 
 
 # # INPUT
-# # Read first number 
-# # Read second number 
+# # Read 1 number 
+# # Read 2 number 
 # # Read third number 
 
 # # PROCESSING
-# # If first number is greater than second and third number - First number is greater 
-# # If second number is greater than first and third number - Second number is greater 
+# # If 1 number is greater than 2 and third number - First number is greater 
+# # If 2 number is greater than 1 and third number - Second number is greater 
 # # otherwise - Third number is greater
 
 # # OUTPUT 
@@ -78,19 +78,19 @@
 
 # # Algorithm
 # # 1. Start 
-# # 2. Read first number 
-# # 3. Read second number 
+# # 2. Read 1 number 
+# # 3. Read 2 number 
 # # 4. Read third number 
-# # 5. If first number is greater than second and third number 
-# # 6. Display first number is greater
-# # 7. If second number is greater than first and third number 
-# # 8. Display second number is greater
+# # 5. If 1 number is greater than 2 and third number 
+# # 6. Display 1 number is greater
+# # 7. If 2 number is greater than 1 and third number 
+# # 8. Display 2 number is greater
 # # 9. Otherwise display third number is greater 
 # # 10. Stop 
 
 # # Python Solution
-# number_1 = int(input("Enter first number: "))
-# number_2 = int(input("Enter second number: "))
+# number_1 = int(input("Enter 1 number: "))
+# number_2 = int(input("Enter 2 number: "))
 # number_3 = int(input("Enter third number: "))
 
 # if number_1 > number_2 and number_1 > number_3:
@@ -171,13 +171,10 @@
 # print(f"Price: {price} ₹")
 
 # # Problem 6
-
-# # IPO
-
 # # INPUT
 
-# # Read first subject marks
-# # Read second subject marks
+# # Read 1 subject marks
+# # Read 2 subject marks
 # # Read third subject marks
 
 # # PROCESSING
@@ -192,8 +189,8 @@
 # # Algorithm
 
 # # 1. Start
-# # 2. Read first subject marks
-# # 3. Read second subject marks
+# # 2. Read 1 subject marks
+# # 3. Read 2 subject marks
 # # 4. Read third subject marks
 # # 5. Calculate average
 # # 6. If average is greater than or equal to 40
@@ -204,9 +201,9 @@
 
 # # Python Solution
 
-# marks_1 = float(input("Enter first subject marks: "))
+# marks_1 = float(input("Enter 1 subject marks: "))
 
-# marks_2 = float(input("Enter second subject marks: "))
+# marks_2 = float(input("Enter 2 subject marks: "))
 
 # marks_3 = float(input("Enter third subject marks: "))
 
