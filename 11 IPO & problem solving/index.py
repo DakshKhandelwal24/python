@@ -42,13 +42,13 @@
 # # Display the result whether it's even or odd
 
 
-# # #Algorithm
-# # 1. Start
-# # 2. Read a number
-# # 3. If number is divisible by 2
-# # 4. Display even 
-# # 5. Otherwise display odd
-# # 6. Stop
+#  #Algorithm
+# ]# 1. Start
+#  2. Read a number
+#  3. If number is divisible by 2
+#  4. Display even 
+#  5. Otherwise display odd
+#  6. Stop
 
 
 # #Python Solution
