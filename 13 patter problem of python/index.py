@@ -63,3 +63,10 @@
 #     print()    
 
 # question 10
+# for i in range(5):
+#     for j in range(1,6):
+#         print(j*j,end=" ")
+#     print()   
+# 
+# quesion 11
+  
