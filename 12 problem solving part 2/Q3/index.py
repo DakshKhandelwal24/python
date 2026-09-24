@@ -29,10 +29,3 @@ for word in words:
 
 print("Highest scoring word:", highest_word)
 print("Score:", highest_score)
-
-
-
-
-print("Short words:", short)
-print("Medium words:", medium)
-print("Long words:", long)

@@ -209,7 +209,20 @@
 
 # average = (marks_1 + marks_2 + marks_3) / 3
 
-if average >= 40:
-    print("Pass")
-else:
-    print("Fail")
+# if average >= 40:
+#     print("Pass")
+# else:
+# #     print("Fail")
+# row = 3
+# for i in range(row+1):
+#     for j in range (i + 1):
+#         print("*",end=" ")
+number=int(input("Enter a Number"))
+middle= number//2+1
+for i in range(1,number+1):
+    for j in range(1,number+1):
+        if j==1 or j==number or i==number or (i==middle and j==middle ):
+            print("* ",end="")
+        else:
+            print(" " , end="")
+    print()
