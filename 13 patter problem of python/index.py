@@ -127,9 +127,9 @@
 #         print(f"({i},{j})",end=" ")
 #     print()
 #     # question 20
-#     num = int(input("enter a number :"))
+# num = 3
 # for i in range(1,num+1):
-#     for j in range(1,num+1):
+#      for j in range(1,num+1):
 #         print(i,j)
 
 #     # question 21
@@ -174,5 +174,7 @@
 #     for j in range(1,num+1):
 #         print(i,end="")
 #     print()
-
-
+num = 3
+for i in range(1,num+1):
+     for j in range(1,num+1):
+        print(i,j)
