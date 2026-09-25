@@ -133,11 +133,10 @@
 #         print(i,j)
 
 #     # question 21
-
-
-
-
-
+# for i in range(1,11):
+#      for j in range(1,11):
+#          print(f"{i} X {j} = {i*j}")
+#      print()
 
 #     # Question 22
 #     num = int(input("enter a number :"))
@@ -173,8 +172,9 @@
 # for i in range(1,num+1):
 #     for j in range(1,num+1):
 #         print(i,end="")
-#     print()
-num = 3
-for i in range(1,num+1):
-     for j in range(1,num+1):
-        print(i,j)
+# #     print()
+# num = int(input("enter a number :"))
+# for i in range(0,num+1,2):
+#     for j in range(1,i,2):
+#          print(j,end=" ")
+#          print()
