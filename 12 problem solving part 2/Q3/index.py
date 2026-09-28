@@ -1,31 +1,18 @@
-#3
-sentence = input("Enter a sentence: ").lower()
+sentence = input("Enter any sentence :").lower()
 words = sentence.split()
-vowels = "aeiou"
-consonants = "bcdfghjklmnpqrstvwxyz"
-digits = "0123456789"
-special = "!@#$%^&*~`|?"
 highest_score = 0
-highest_word = ""
-
-for word in words:
-    score = 0
-    for i in word:
-        for j in vowels:
-            if i == j:
-                score += 2
-        for j in consonants:
-            if i == j:
-                score += 1
-        for j in digits:
-            if i == j:
-                score += 3
-        for j in special:
-            if i == j:
-                score += 4
-    if score > highest_score:
+for i in words :
+    score = 0 
+    for i in i :
+        if i == "aeiou":
+            score += 2
+        elif i == "bcdfghiklmnpqrstvwxyz":
+            score += 1
+        elif i == "0123456789":
+            score += 3
+        else:
+            score += 4
+    if score > highest_score :
         highest_score = score
-        highest_word = word
-
-print("Highest scoring word:", highest_word)
-print("Score:", highest_score)
+        word = i
+print(word)
