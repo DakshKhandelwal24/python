@@ -18,19 +18,25 @@
 # else :
 #     print("string is not palindrome")  
 
-string=input("enter a string")
-i=0
-j=len(string)-1
-flag=True
+# string=input("enter a string")
+# i=0
+# j=len(string)-1
+# flag=True
 
-while (i<j):
-       if string[i]==string[j]:
-        i=i+1
-        j=j-1
-       else :
-           flag=False
-           i=j #to break the loop 
-if flag:
-    print("string is a palindrome")           
-else: 
-      print("string is not a palindrome")  
+# while (i<j):
+#        if string[i]==string[j]:
+#         i=i+1
+#         j=j-1
+#        else :
+#            flag=False
+#            i=j #to break the loop 
+# if flag:
+#     print("string is a palindrome")           
+# else: 
+#       print("string is not a palindrome")  
+# number = int(input("enter a possitive number:").strip())
+# number>0 
+# while number > 0:
+#     digit = number % 10
+#     print(digit)
+#     number = number // 10
