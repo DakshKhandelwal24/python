@@ -40,3 +40,32 @@
 #     digit = number % 10
 #     print(digit)
 #     number = number // 10
+# number = int(input("Enter a number: "))
+
+# reverse = 0
+
+# while number > 0:
+#     digit = number % 10
+#     reverse = reverse * 10 + digit
+#     number = number // 10
+
+# print("Reverse:", reverse)
+# row = 1
+
+# while row <= 2:
+#     column = 1
+
+#     while column <= 3:
+#         print("*", end="")
+#         column = column + 1
+
+#     print()
+#     row = row + 1     
+
+
+
+
+# string=input("enter a string")
+# a = ""
+
+# for D in string

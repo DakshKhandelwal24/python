@@ -88,3 +88,12 @@
 #     if i % 2==0 and i % 3==0:
 #         print(i)
 #     i+=1
+A = input("Enter a string: ")
+
+# result = ""
+
+# for B in A:
+#     if not B.isdigit():
+#         result += B
+
+# print("Output:", result)
