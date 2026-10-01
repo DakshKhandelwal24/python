@@ -64,8 +64,12 @@
 
 
 
+# string = input("Enter a string: ")
 
-# string=input("enter a string")
-# a = ""
+# count = 0
 
-# for D in string
+# for A in string:
+#     if A.islower():
+#         count = count + 1
+
+# print("Lowercase letters:", count)
