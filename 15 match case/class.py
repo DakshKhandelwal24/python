@@ -46,11 +46,24 @@
 #         print(choice%2==1,"odd")
 #     case _:
 #         print(choice%2!=0 and choice%2==0,"prime number") 
-day = int(input("enter a day value"))
-match day:
-    case 1 | 2 | 3 | 4 | 5 :
-        print("weekday")
-    case 6 | 7:
-        print("weekends")
-    case _ :
-        print("Invalid day")        
+# day = float(input("enter a day value"))
+# match day:
+#     case 1 | 2 | 3 | 4 | 5 :
+#         print("weekday")
+#     case 6 | 7:
+#         print("weekends")
+#     case _ :
+#         print("Invalid day")        
+# number = float(input("enter a number"))
+
+# match number:
+#     case x if x >= 90 :
+#         print("A")
+#     case x if x >= 75 :
+#         print("B")
+#     case x if x >= 60 :
+#         print("C")
+#     case x if x >= 40 :
+#         print("D")
+#     case _ :
+#         print("Fail")
