@@ -67,3 +67,76 @@
 #         print("D")
 #     case _ :
 #         print("Fail")
+# account = "student"
+# choice = 2
+
+# match account:
+
+#     case "student":
+
+#         match choice:
+#             case 1:
+#                 print("View Courses")
+#             case 2:
+#                 print("View Marks")
+#             case 3:
+#                 print("View Attendance")
+#             case _:
+#                 print("Invalid Choice")
+
+#     case "teacher":
+
+#         match choice:
+#             case 1:
+#                 print("View Students")
+#             case 2:
+#                 print("Enter Marks")
+#             case _:
+#                 print("Invalid Choice")
+
+#     case _:
+#         print("Invalid Account Type")
+
+
+
+
+# account = input("Enter account type saving/current ")
+
+# match account:
+#     case "saving":
+#         print("Saving Account")
+
+#         choice = input("Enter 1 for Deposit or 2 for Withdraw: ")
+
+#         match choice:
+#             case "1":
+#                 print("Money Deposited")
+#             case "2":
+#                 print("Money Withdrawn")
+    
+#             case _:
+#                 print("Invalid choice")
+                
+
+#     case "current":
+#         print("Current Account")
+
+#         choice = input("Enter 1 for Deposit or 2 for Withdraw: ")
+
+#         match choice:
+#             case "1":
+#                 print("money deposited")
+#             case "2":
+#                 print("money withdraw")
+#             case "3" :
+#                 print("money inquery")
+#             case "4" :
+#                 print("print bank statement")
+#             case "5":
+#                 print("refund request")                
+#             case _:
+#                 print("Invalid choice")
+
+#     case _:
+#         print("please choose a valiid account details")
+
