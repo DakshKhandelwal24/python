@@ -21,15 +21,19 @@
 
 # print("Count:", count)
 # print("Flag:", flag)
-str = input("Enter a string : ").strip().lower()
-c = 0 
-flag = True 
-for i in range (len(str)-1) :
-    c += 1
-    if str[i] == "o" :
-        flag = False
-        print("Found")
-        print(c)    
-if flag :
-    print("Not found")
-    
+# str = input("Enter a string : ").strip().lower()
+# c = 0 
+# flag = True 
+# for i in range (len(str)-1) :
+#     c += 1
+#     if str[i] == "o" :
+#         flag = False
+#         print("Found")
+#         print(c)    
+# if flag :
+#     print("Not found")
+# for i in range(1, 6):
+#     if i == 4:
+#         break
+
+#     print(i)
