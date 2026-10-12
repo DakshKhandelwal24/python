@@ -988,3 +988,16 @@
 #                 print("Invalid Option")
 #     case _:
 #         print("Invalid Role")
+# for i in range(1, 6):
+#     if i == 3:
+#         continue
+# else:
+#     print("Done")
+
+
+
+for i in range(1, 6):
+    if i == 3:
+        break
+else:
+    print("Done")    
