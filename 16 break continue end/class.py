@@ -11,12 +11,12 @@
 #     if num == 30:
 #         print("Found")
 #         break
-i = 1
+# i = 1
 
-while i <= 5:
-    if i == 3:
+# while i <= 5:
+#     if i == 3:
     
-        continue
+#         continue
 
-    print(i)
-    i += 1
+#     print(i)
+#     i += 1
