@@ -14,9 +14,9 @@
 #     return a-b
 # result=sub(add(a,b),c)
 # print(result)
-def introduce(name, age, city):
-    print("Name:", name)
-    print("Age:", age)
-    print("City:", city)
+# def introduce(name, age, city):
+#     print("Name:", name)
+#     print("Age:", age)
+#     print("City:", city)
 
-introduce("Asha", 21, "Pune")
+# introduce("Asha", 21, "Pune")
