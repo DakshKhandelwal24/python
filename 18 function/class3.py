@@ -1,4 +1,4 @@
-def divide(c,d,/,*,a,b):
-    return a/b, c+d
+# def divide(c,d,/,*,a,b):
+#     return a/b, c+d
 
-print(divide(14,15,a=10,b=2))
+# print(divide(14,15,a=10,b=2))
