@@ -152,8 +152,11 @@
 # # question = 9 
 
 # def print_number():
-#     for j in range(1,6):
-#         print(j)
+#     print("1")
+#     print("2")
+#     print("3")
+#     print("4")
+#     print("5")
 # print_number()
 
 # # question = 10 
@@ -165,7 +168,7 @@
 #         print()
 # show_pattern()
 
-# ######     INTERMEDIATE LEVEL ############## 
+# ######  INTERMEDIATE LEVEL ############## 
 
 # # question = 11 
 
@@ -212,6 +215,13 @@
 #     for i in range (5) :
 #         print("*",end=" ")
 # five_star()
+# end=" "
+# five_star()
+# end=" "
+# five_star()
+# end=" "
+# five_star()
+
 
 # # qiestion = 16 
 
