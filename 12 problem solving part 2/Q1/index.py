@@ -26,4 +26,4 @@ elif count3 > count and count3 > count1 and count3 > count2 and count3 > count4:
 elif count4 > count and count4 > count1 and count4 > count2 and count4 > count3:
     print(f"Highest count is of special characters, Count is: {count4}")
 else:
-    print("Tie")
+    print("Tie")    
